@@ -1,0 +1,17 @@
+RadioGestor - Sistema de Gestão de Rádio Comunicação
+
+Copyright (c) 2025 Rudolf Fischer
+
+Este projeto foi idealizado por Rudolf Fischer no âmbito de atividades desenvolvidas para a Polícia Militar de Santa Catarina (PMSC).
+
+A utilização, modificação e distribuição deste software são permitidas **exclusivamente para fins institucionais, públicos ou educacionais**, desde que mantida a devida atribuição ao autor e à instituição.
+
+É vedada a utilização deste projeto, total ou parcial, para fins comerciais ou privados sem autorização expressa do autor.
+
+Este software é fornecido "no estado em que se encontra", sem garantias de qualquer natureza, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comercialização, adequação a uma finalidade específica ou não violação.
+
+Para uso institucional ou cooperação com a PMSC, entre em contato com o autor.
+
+Rudolf Fischer  
+Email: (inserir aqui)  
+Polícia Militar de Santa Catarina – 2025
